@@ -23,10 +23,10 @@
             $('.color-menu').css('color', '#ffffff')
         } else {
             $('.sticky-top').removeClass('bg-primary shadow-sm').css('top', '-150px');
-            $('.color-menu').css('color', '#000')
+            $('.color-menu').css('color', '#000000')
         }
     });
-    
+
     
     // Back to top button
     $(window).scroll(function () {
