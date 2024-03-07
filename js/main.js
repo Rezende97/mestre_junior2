@@ -23,7 +23,7 @@
             $('.color-menu').css('color', '#ffffff')
         } else {
             $('.sticky-top').removeClass('bg-primary shadow-sm').css('top', '-150px');
-            $('.color-menu').css('color', '#000000')
+            $('.color-menu').css('color', '#ffffff')
         }
     });
 
